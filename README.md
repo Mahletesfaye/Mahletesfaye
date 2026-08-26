@@ -33,6 +33,13 @@ I enjoy turning ideas into real-world applications using technologies such as Ja
 💬 Ask me about JavaScript, React, HTML, CSS, Node.js, Git, and GitHub  <br/>
 ⚡ Fun fact: I enjoy turning problems into software solutions. <br/>
 
+🌐 Connect With Me
+
+<p> <a href="https://github.com/Mahletesfaye"> <img src="https://img.shields.io/badge/GitHub-Mahletesfaye-181717?style=for-the-badge&logo=github" /> </a> </p>
+
+<!-- Add your LinkedIn and email below -->
+
+<p> <a href="https://www.linkedin.com/in/mahlet-tesfaye-a4a826288"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /> </a> </p>
 
 
   🛠️ Languages and Tools
@@ -83,14 +90,6 @@ A tourism and travel website focused on promoting destinations and tourism exper
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mahletesfaye&show_icons=true&theme=tokyonight" alt="Mahlet's GitHub Stats" /> </p>
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahletesfaye&theme=tokyonight" alt="GitHub Streak" /> </p>
-
-🌐 Connect With Me
-
-<p> <a href="https://github.com/Mahletesfaye"> <img src="https://img.shields.io/badge/GitHub-Mahletesfaye-181717?style=for-the-badge&logo=github" /> </a> </p>
-
-<!-- Add your LinkedIn and email below -->
-
-<p> <a href="https://www.linkedin.com/in/mahlet-tesfaye-a4a826288"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /> </a> </p>
 
 🎯 2026 Goals <br/>
 🚀 Become a strong Full-Stack Developer <br/>

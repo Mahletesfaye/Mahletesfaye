@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Mahlet Tesfaye
 
 <!--
 **Mahletesfaye/Mahletesfaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -90,7 +90,7 @@ A tourism and travel website focused on promoting destinations and tourism exper
 
 <!-- Add your LinkedIn and email below -->
 
-<p> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /> </a> </p>
+<p> <a href="https://www.linkedin.com/in/mahlet-tesfaye-a4a826288"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /> </a> </p>
 
 🎯 2026 Goals <br/>
 🚀 Become a strong Full-Stack Developer <br/>

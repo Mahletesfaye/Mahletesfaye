@@ -24,12 +24,12 @@ I enjoy turning ideas into real-world applications using technologies such as Ja
 
 
 👨‍💻 About Me
-🔭 I'm currently working on Full-Stack Web Development projects
-🌱 I'm currently learning React, Node.js, Express.js, MongoDB, and modern web development
-🎓 I'm studying Software Engineering at Arbaminch University
-💻 I'm interested in MERN Stack Development
-🚀 I'm building real-world projects to improve my development skills
-🤝 I'm looking to collaborate on Open Source and Full-Stack projects
-💬 Ask me about JavaScript, React, HTML, CSS, Node.js, Git, and GitHub
-⚡ Fun fact: I enjoy turning problems into software solutions.
+🔭 I'm currently working on Full-Stack Web Development projects <br/>
+🌱 I'm currently learning React, Node.js, Express.js, MongoDB, and modern web development <br/>
+🎓 I'm studying Software Engineering at Arbaminch University <br/>
+💻 I'm interested in MERN Stack Development <br/>
+🚀 I'm building real-world projects to improve my development skills <br/>
+🤝 I'm looking to collaborate on Open Source and Full-Stack projects  <br/>
+💬 Ask me about JavaScript, React, HTML, CSS, Node.js, Git, and GitHub  <br/>
+⚡ Fun fact: I enjoy turning problems into software solutions. <br/>
   

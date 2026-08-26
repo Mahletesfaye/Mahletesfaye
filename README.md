@@ -24,6 +24,7 @@ I enjoy turning ideas into real-world applications using technologies such as Ja
 
 
 👨‍💻 About Me <br/>
+
 🔭 I'm currently working on Full-Stack Web Development projects <br/>
 🌱 I'm currently learning React, Node.js, Express.js, MongoDB, and modern web development <br/>
 🎓 I'm studying Software Engineering <br/>
@@ -60,6 +61,7 @@ Tools
 <p> <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" /> </p>
 
 🚀 What I'm Interested In  <br/>
+
 🌐 Full-Stack Web Development <br/>
 ⚛️ React Development <br/>
 🟢 Node.js & Express.js <br/>
@@ -69,21 +71,6 @@ Tools
 🤖 Artificial Intelligence <br/>
 💡 Building real-world software solutions <br/>
 📌 Featured Projects <br/>
-🎬 Netflix Clone <br/>
-
-A modern Netflix-inspired web application built while practicing React and frontend development.
-
-🍔 Food Delivery Application
-
-A food delivery project focused on creating a modern user interface and developing practical full-stack skills.
-
-🍎 Apple Website Clone
-
-A responsive Apple-inspired website created to practice frontend development and modern UI design.
-
-✈️ ArbaTrips
-
-A tourism and travel website focused on promoting destinations and tourism experiences around Arba Minch and southern Ethiopia.
 
 📊 GitHub Statistics
 
@@ -92,6 +79,7 @@ A tourism and travel website focused on promoting destinations and tourism exper
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahletesfaye&theme=tokyonight" alt="GitHub Streak" /> </p>
 
 🎯 2026 Goals <br/>
+
 🚀 Become a strong Full-Stack Developer <br/>
 ⚛️ Master React and modern frontend development <br/>
 🟢 Build production-ready Node.js backends <br/>

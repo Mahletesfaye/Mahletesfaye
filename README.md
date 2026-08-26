@@ -23,7 +23,7 @@ I enjoy turning ideas into real-world applications using technologies such as Ja
 
 
 
-👨‍💻 About Me
+👨‍💻 About Me <br/>
 🔭 I'm currently working on Full-Stack Web Development projects <br/>
 🌱 I'm currently learning React, Node.js, Express.js, MongoDB, and modern web development <br/>
 🎓 I'm studying Software Engineering <br/>
@@ -52,7 +52,7 @@ Tools
 
 <p> <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" /> </p>
 
-<h3>🚀 What I'm Interested In <h3/> <br/>
+🚀 What I'm Interested In  <br/>
 🌐 Full-Stack Web Development <br/>
 ⚛️ React Development <br/>
 🟢 Node.js & Express.js <br/>

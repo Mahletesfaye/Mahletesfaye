@@ -32,4 +32,22 @@ I enjoy turning ideas into real-world applications using technologies such as Ja
 🤝 I'm looking to collaborate on Open Source and Full-Stack projects  <br/>
 💬 Ask me about JavaScript, React, HTML, CSS, Node.js, Git, and GitHub  <br/>
 ⚡ Fun fact: I enjoy turning problems into software solutions. <br/>
-  
+
+
+
+  🛠️ Languages and Tools
+Languages
+
+<p> <img src="https://skillicons.dev/icons?i=js,java,python,cpp,html,css" /> </p>
+
+Frontend
+
+<p> <img src="https://skillicons.dev/icons?i=react,tailwind,vite" /> </p>
+
+Backend & Database
+
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /> </p>
+
+Tools
+
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" /> </p>

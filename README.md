@@ -52,17 +52,17 @@ Tools
 
 <p> <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" /> </p>
 
-🚀 What I'm Interested In
-🌐 Full-Stack Web Development
-⚛️ React Development
-🟢 Node.js & Express.js
-🍃 MongoDB & Database Systems
-🔐 Backend Development & APIs
-☁️ Cloud & Deployment
-🤖 Artificial Intelligence
-💡 Building real-world software solutions
-📌 Featured Projects
-🎬 Netflix Clone
+<h3>🚀 What I'm Interested In <h3/> <br/>
+🌐 Full-Stack Web Development <br/>
+⚛️ React Development <br/>
+🟢 Node.js & Express.js <br/>
+🍃 MongoDB & Database Systems <br/>
+🔐 Backend Development & APIs <br/>
+☁️ Cloud & Deployment <br/>
+🤖 Artificial Intelligence <br/>
+💡 Building real-world software solutions <br/>
+📌 Featured Projects <br/>
+🎬 Netflix Clone <br/>
 
 A modern Netflix-inspired web application built while practicing React and frontend development.
 
@@ -92,14 +92,14 @@ A tourism and travel website focused on promoting destinations and tourism exper
 
 <p> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /> </a> </p>
 
-🎯 2026 Goals
-🚀 Become a strong Full-Stack Developer
-⚛️ Master React and modern frontend development
-🟢 Build production-ready Node.js backends
-🗄️ Improve my database and system design skills
-☁️ Learn Cloud Computing and DevOps
-🤝 Contribute to Open Source projects
-💼 Build and deploy more real-world applications
-⭐ Thanks for visiting my profile!
+🎯 2026 Goals <br/>
+🚀 Become a strong Full-Stack Developer <br/>
+⚛️ Master React and modern frontend development <br/>
+🟢 Build production-ready Node.js backends <br/>
+🗄️ Improve my database and system design skills <br/>
+☁️ Learn Cloud Computing and DevOps <br/>
+🤝 Contribute to Open Source projects <br/>
+💼 Build and deploy more real-world applications <br/>
+⭐ Thanks for visiting my profile! <br/>
 
 Feel free to explore my repositories and connect with me. 🚀
